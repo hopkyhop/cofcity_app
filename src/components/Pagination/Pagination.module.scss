@@ -1,0 +1,35 @@
+@import '../../scss/variables';
+
+.root {
+    :global {
+        li {
+            display: inline-flex;
+
+            a {
+                text-align: center;
+                width: 45px;
+                height: 45px;
+                padding: 10px;
+                border: 1px solid $emerald;
+                border-radius: 50%;
+                cursor: pointer;
+                margin-right: 10px;
+                color: $emerald;
+
+                &:hover {
+                    background-color: $emerald;
+                    color: #fff;
+                }
+            }
+        }
+    }
+
+    :global {
+        .selected {
+            a {
+                background-color: $emerald;
+                color: #fff;
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+@import '../variables';
+
+.categories {
+  ul {
+    display: inline-flex;
+    flex-wrap: wrap;
+
+    li {
+      // background-color: #f9f9f9;
+      border: 1px solid $emerald;
+      padding: 13px 30px;
+      border-radius: 30px;
+      margin-right: 10px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.1s ease-in-out;
+      @include noselect();
+
+      &:hover {
+        background-color: rgba(118, 246, 208, 0.1);
+      }
+
+      &:active {
+        background-color: rgba(118, 246, 207, 0.1);
+      }
+
+      &.active {
+        background-color: $emerald;
+        color: #fff;
+      }
+
+      @media (max-width: 1290px) {
+        margin-bottom: 10px;
+      }
+    }
+  }
+}

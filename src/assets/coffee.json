@@ -1,0 +1,163 @@
+[
+  {
+   "id": "0",
+   "imageUrl": "https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Ванильный латте",
+   "types": [
+    0,
+    1
+   ],
+   "sizes": [
+    0.2,
+    0.4,
+    0.6
+   ],
+   "price": 480,
+   "category": 2,
+   "rating": 4
+  },
+  {
+   "id": "1",
+   "imageUrl": "https://globalassets.starbucks.com/assets/a7fb63cb5bee4f3d9c8fd79088be6337.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Латте с посыпкой",
+   "types": [
+    0,
+    1
+   ],
+   "sizes": [
+    0.4,
+    0.6
+   ],
+   "price": 500,
+   "category": 2,
+   "rating": 6
+  },
+  {
+   "id": "2",
+   "imageUrl": "https://globalassets.starbucks.com/assets/fedee22e49724cd09fbcc7ee2e567377.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Флэт уайт",
+   "types": [
+    0,
+    1
+   ],
+   "sizes": [
+    0.2,
+    0.4,
+    0.6
+   ],
+   "price": 400,
+   "category": 1,
+   "rating": 4
+  },
+  {
+   "id": "3",
+   "imageUrl": "https://globalassets.starbucks.com/assets/284e1571faa748f2889d0b566b71d578.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Латте с корицей",
+   "types": [
+    0,
+    1
+   ],
+   "sizes": [
+    0.2,
+    0.4,
+    0.6
+   ],
+   "price": 450,
+   "category": 2,
+   "rating": 2
+  },
+  {
+   "id": "4",
+   "imageUrl": "https://globalassets.starbucks.com/assets/3a62ac7842934f4991ddca2b9bb4c029.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Напиток с клубника-асаи",
+   "types": [
+    1
+   ],
+   "sizes": [
+    0.4,
+    0.6
+   ],
+   "price": 415,
+   "category": 3,
+   "rating": 8
+  },
+  {
+   "id": "5",
+   "imageUrl": "https://globalassets.starbucks.com/assets/7b4cdf46a99c4433bebcf3a8de9ad4f1.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Карамельный латте",
+   "types": [
+    0,
+    1
+   ],
+   "sizes": [
+    0.2,
+    0.4,
+    0.6
+   ],
+   "price": 580,
+   "category": 2,
+   "rating": 2
+  },
+  {
+   "id": "6",
+   "imageUrl": "https://globalassets.starbucks.com/assets/77801559b72b469583f4d484adc1bfa7.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Медовый флэт уайт",
+   "types": [
+    0,
+    1
+   ],
+   "sizes": [
+    0.2,
+    0.4,
+    0.6
+   ],
+   "price": 675,
+   "category": 1,
+   "rating": 9
+  },
+  {
+   "id": "7",
+   "imageUrl": "https://globalassets.starbucks.com/assets/8b1b6d808cca4787afd2b30cf8dd5676.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Матча латте",
+   "types": [
+    1
+   ],
+   "sizes": [
+    0.4,
+    0.6
+   ],
+   "price": 400,
+   "category": 4,
+   "rating": 10
+  },
+  {
+   "id": "8",
+   "imageUrl": "https://globalassets.starbucks.com/assets/677d276173ec4bc192c2b9a21776339f.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Горячий шоколад",
+   "types": [
+    1
+   ],
+   "sizes": [
+    0.4,
+    0.6
+   ],
+   "price": 350,
+   "category": 5,
+   "rating": 10
+  },
+  {
+   "id": "9",
+   "imageUrl": "https://globalassets.starbucks.com/assets/3675fb8253fc4b98839b1a509c9bf8bd.jpg?impolicy=1by1_wide_topcrop_630",
+   "title": "Белый горячий шоколад",
+   "types": [
+    1
+   ],
+   "sizes": [
+    0.4,
+    0.6
+   ],
+   "price": 350,
+   "category": 5,
+   "rating": 7
+  }
+ ]

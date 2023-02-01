@@ -1,0 +1,49 @@
+.root {
+    position: relative;
+    margin-right: auto;
+    margin-left: 50px;
+    width: 400px;   
+}
+
+.icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 23px;
+    height: 23px;
+    opacity: 0.3;
+}
+
+.searchIcon {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 15px;
+    height: 15px;
+    opacity: 0.3;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+
+    &:hover {
+        opacity: 0.5;
+        transition: all .3s ease-in-out;
+    }
+}
+
+.input {
+    padding: 15px 20px;
+    padding-left: 40px;
+    border: 1px solid rgb(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-size: 16px;
+    width: 100%;
+    transition: all .15s ease-in-out;
+
+    &:hover {
+        border: 1px solid rgb(0, 0, 0, 0.2);
+        transition: all .3s ease-in-out;
+    }
+}
+
